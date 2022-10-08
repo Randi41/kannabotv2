@@ -1,17 +1,17 @@
-// S C R I P T  O R I  B Y  @BochilGaming 🔭
-// M A D E  B Y  Letta - Sama 🐰  
+// S C R I P T  O R I  B Y  @Rann D 🔭
+// M A D E  B Y  Rann D 🥶  
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
-// • Allah SWT
-// • Nurutomo
-// • Bochilgaming
-// • Rominaru
-// • Kannachann
-// • The.Sad.Boy01
-// • Rasel comel
-// • Xtreshe (Beban)
-// • Dll
+// • Rann D
+// • Randi Saputra
+// • Kang HS
+// • BotWa Rann V5
+
+
+
+
+
 
 //[!] Jangan Dihapus, mending ditambahin 
 
@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
+global.YT = 'Kang HS'
 global.sgh = 'https://github.com/Jikarinka'
-global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
-global.sdc = " "
-global.snh = 'https://nhentai.net/g/365296/'
+global.sgc = 'https://chat.whatsapp.com/HVyVTw58WYuGVjsHwswply'
+global.sdc = "-"
+global.tiktok = 'kanghsyt'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.pdana = '6285752583246'
+global.povo = 'coming soon'
+global.pgopay = 'coming soon'
+global.ppulsa = '6285752583246'
+global.ppulsa2 = '089590340893'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
+global.nomorbot = '089590340893'
+global.nomorown = '085752583246'
+global.namebot = 'Rann Bot V5'
+global.nameown = 'rann d'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
-  ['6285334930628'],
-  ['18126338970'],
-  ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
+  ['6289590340893'],
+  ['6289590340893'],
+  ['6289590340893'],
+  ['6285752583246', 'rann d', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
